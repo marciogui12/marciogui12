@@ -1,4 +1,4 @@
-##Estudante de programação e tecnologia!
+## Estudante de Programação e Técnologia
 <div align="center">
   <a href="https://github.com/marciogui12">
   <img height="140em" src="https://github-readme-stats.vercel.app/api?username=marciogui12&show_icons=true&theme=dark&include_all_commits=true&count_private=true"/>
