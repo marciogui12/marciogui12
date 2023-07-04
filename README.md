@@ -1,4 +1,4 @@
-## Estudante de Programação e Tecnologia
+### Olá, eu sou márcio, entusiasta da tecnologia em busca de desafios todos os dias!
 
 <div style="display:flex";>
   <a href="https://github.com/marciogui12">
