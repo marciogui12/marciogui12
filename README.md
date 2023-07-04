@@ -1,17 +1,6 @@
 ## Estudante de Programação e Tecnologia
 
-<style type="text/css">
-
-  body {
-    background-color: blue;
-}
-h1 {
-    color: red;
-    padding: 60px;
-}
-  
-</style>
-<div align="center">
+<div align="center" style="display:flex";>
   <a href="https://github.com/marciogui12">
   <img align="center" width="50%" src="https://github-readme-stats.vercel.app/api?username=marciogui12&show_icons=true&theme=codeSTACKr"/>
   <img align="center" width="50%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=marciogui12&layout=compact"/>
