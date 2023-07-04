@@ -2,8 +2,8 @@
 
 <div align="center" style="display:flex";>
   <a href="https://github.com/marciogui12">
-  <img align="center" width="50%" src="https://github-readme-stats.vercel.app/api?username=marciogui12&show_icons=true&theme=codeSTACKr"/>
-  <img align="center" width="50%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=marciogui12&layout=compact"/>
+  <img align="center" src="https://github-readme-stats.vercel.app/api?username=marciogui12&show_icons=true&theme=codeSTACKr"/>
+  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=marciogui12&layout=compact"/>
 </div>
 <div style="display: inline_block"><br>
   <img align="center" alt="Marcio-JS" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg">
