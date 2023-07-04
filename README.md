@@ -2,7 +2,7 @@
 
 <div align="center" style="display:flex";>
   <a href="https://github.com/marciogui12">
-  <img align="center" width="300px" height="165px" src="https://github-readme-stats.vercel.app/api?username=marciogui12&show_icons=true&theme=codeSTACKr"/>
+  <img align="center" height="165px" src="https://github-readme-stats.vercel.app/api?username=marciogui12&show_icons=true&theme=codeSTACKr"/>
   <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=marciogui12&layout=compact"/>
 </div>
 <div style="display: inline_block"><br>
