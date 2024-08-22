@@ -6,7 +6,7 @@
   <img align="center" height="165px" src="https://github-readme-stats.vercel.app/api?username=marciogui12&show_icons=true&theme=codeSTACKr"/>
   <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=marciogui12&layout=compact"/>
 </div>
-<<div style="display: inline_block"><br>
+<div style="display: inline_block"><br>
   <img align="center" alt="Marcio-ruby" height="30" width="40" src="https://upload.wikimedia.org/wikipedia/commons/7/73/Ruby_logo.svg">
   <!--<img align="center" alt="Marcio-HTML" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
   <img align="center" alt="Marcio-CSS" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
