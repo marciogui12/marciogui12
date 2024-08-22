@@ -1,5 +1,5 @@
 ### Olá, eu sou márcio, entusiasta da tecnologia em busca de desafios todos os dias!
-* alura student, senai and uninassau :shipit:
+* atualmente estudando ruby
 
 <div style="display: flex">
   <a href="https://github.com/marciogui12">
