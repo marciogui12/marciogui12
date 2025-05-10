@@ -1,5 +1,6 @@
 ### Olá, eu sou márcio, entusiasta da tecnologia em busca de desafios todos os dias!
 * atualmente estudando ruby
+* também automação de processos e IA
 
 <div style="display: flex">
   <a href="https://github.com/marciogui12">
