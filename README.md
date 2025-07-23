@@ -1,6 +1,5 @@
-### Olá, eu sou márcio, entusiasta da tecnologia em busca de desafios todos os dias!
-* atualmente estudando ruby
-* também automação de processos e IA
+### Hi, I'm Márcio, a technology enthusiast!
+* Python AI, Ruby
 
 <div style="display: flex">
   <a href="https://github.com/marciogui12">
@@ -8,6 +7,7 @@
   <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=marciogui12&layout=compact"/>
 </div>
 <div style="display: inline_block"><br>
+  <img align="center" alt="Marcio-python" height="30" width="40" src="https://upload.wikimedia.org/wikipedia/commons/c/c3/Python-logo-notext.svg">
   <img align="center" alt="Marcio-ruby" height="30" width="40" src="https://upload.wikimedia.org/wikipedia/commons/7/73/Ruby_logo.svg">
   <!--<img align="center" alt="Marcio-HTML" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
   <img align="center" alt="Marcio-CSS" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
