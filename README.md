@@ -1,5 +1,5 @@
 ### Hi, I'm Márcio, a technology enthusiast!
-* Python AI, Ruby
+* Python AI
 
 <div style="display: flex">
   <a href="https://github.com/marciogui12">
@@ -8,8 +8,8 @@
 </div>
 <div style="display: inline_block"><br>
   <img align="center" alt="Marcio-python" height="30" width="40" src="https://upload.wikimedia.org/wikipedia/commons/c/c3/Python-logo-notext.svg">
-  <img align="center" alt="Marcio-ruby" height="30" width="40" src="https://upload.wikimedia.org/wikipedia/commons/7/73/Ruby_logo.svg">
   <!--<img align="center" alt="Marcio-HTML" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
+  <img align="center" alt="Marcio-ruby" height="30" width="40" src="https://upload.wikimedia.org/wikipedia/commons/7/73/Ruby_logo.svg">
   <img align="center" alt="Marcio-CSS" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
   <img align="center" alt=Marcio-bs" height="30" width="40" src="https://camo.githubusercontent.com/964a169bbc7417bcf2b1ee0ddd2122d9592a50dee693f9421428bdd11d32c18e/68747470733a2f2f63646e2e6a7364656c6976722e6e65742f67682f64657669636f6e732f64657669636f6e2f69636f6e732f626f6f7473747261702f626f6f7473747261702d706c61696e2e737667">
   <img align="center" alt="Marcio-JS" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg">
